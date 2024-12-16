@@ -20,8 +20,8 @@ const ContactUs = () => {
             Phone: <a href="tel:+212123456789">+212 123-456-789</a>
           </li>
           <li>
-            Address: 123 Rue Mlilia Ave, Casrilla<br />
-            Tanger, Morocco
+            Address: Modified Adress to check, git<br />
+            and, github 
           </li>
         </ul>
       </div>
