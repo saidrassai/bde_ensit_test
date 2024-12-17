@@ -17,7 +17,7 @@ const App = () => {
     <div>
       {/* Navbar */}
       <Navbar />
-      {/*<Hero/>*/}
+      <Hero/>
 
       {/* Home Section */}
       <section id="home-section">
